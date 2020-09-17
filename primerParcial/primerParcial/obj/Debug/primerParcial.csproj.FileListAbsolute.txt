@@ -1,0 +1,6 @@
+D:\2do SEMESTRE PROGRAMACION\Laboratorio II\PARCIAL\primerParcial\primerParcial\obj\Debug\primerParcial.csprojResolveAssemblyReference.cache
+D:\2do SEMESTRE PROGRAMACION\Laboratorio II\PARCIAL\primerParcial\primerParcial\bin\Debug\primerParcial.exe.config
+D:\2do SEMESTRE PROGRAMACION\Laboratorio II\PARCIAL\primerParcial\primerParcial\bin\Debug\primerParcial.exe
+D:\2do SEMESTRE PROGRAMACION\Laboratorio II\PARCIAL\primerParcial\primerParcial\bin\Debug\primerParcial.pdb
+D:\2do SEMESTRE PROGRAMACION\Laboratorio II\PARCIAL\primerParcial\primerParcial\obj\Debug\primerParcial.exe
+D:\2do SEMESTRE PROGRAMACION\Laboratorio II\PARCIAL\primerParcial\primerParcial\obj\Debug\primerParcial.pdb
